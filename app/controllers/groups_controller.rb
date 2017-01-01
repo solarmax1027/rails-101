@@ -15,6 +15,7 @@ class GroupsController < ApplicationController
     @posts = @group.posts
   end
 
+
   def edit
     end
 
